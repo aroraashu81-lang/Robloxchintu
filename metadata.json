@@ -1,0 +1,6 @@
+{
+  "name": "robloxiachintu",
+  "description": "Voxel gaming platform with Cyber Obby Escape, leaderboards, daily login rewards, avatar marketplace, and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
